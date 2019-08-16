@@ -6,10 +6,10 @@
 
 交易账单为用户某时间段内购买资源的账单，即所有已支付的订单汇总；欠费账单为某时间段内因欠费行为产生的账单，即所有欠费订单的汇总。
 
-![](/images/charge/charge_15.jpg)
+![](/images/charge_15.jpg)
 
 ## 账单导出
 
 您可以在用户中心\>账单管理中导出账单，操作如下：
 
-![](/images/charge/charge_16.jpg)
+![](/images/charge_16.jpg)
