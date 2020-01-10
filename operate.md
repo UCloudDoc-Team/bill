@@ -15,14 +15,14 @@
 
 ## 账单总览
 您可以在 用户中心\>费用中心\>交易账单\>[账单总览](https://accountv2.ucloud.cn/bills/overview)中查看并导出交易账单汇总，操作如下：
-
+![账单总览](/images/overview.png)
 
 > 汇总支持按产品类型、所属项目两个维度。
 
 
 ## 账单明细
 您可以在 用户中心\>费用中心\>交易账单\>[账单明细](https://accountv2.ucloud.cn/bills/detail)中查看并导出交易账单明细，操作如下：
-
+![账单明细](/images/detail.png)
 
 > 支持查询单个资源在某个账期内的全部订单
 
