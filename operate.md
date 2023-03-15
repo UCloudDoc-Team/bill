@@ -15,18 +15,27 @@
 
 ## 账单总览
 
-您可以在 用户中心\>费用中心\>交易账单\>[账单总览](https://accountv2.ucloud.cn/bills/overview)中查看并导出交易账单汇总，操作如下：
+您可以在 用户中心\>财务中心\>交易账单\>[账单总览](https://accountv2.ucloud.cn/bills/overview)中查看并导出交易账单汇总，操作如下：
 
-![账单总览](/images/overview.png)
+![image](https://user-images.githubusercontent.com/107971405/225288888-0e0510f2-06aa-4c24-b6e5-163cb8586cbb.png)
 
-> 汇总支持按产品类型、所属项目两个维度。
+> 汇总支持按产品、按项目、按用户三个维度。
+
+## PDF版账单导出
+
+您可以在财务中心\>交易账单中导出已入账部分的PDF版账单，操作如下： 
+<img width="1175" alt="image" src="https://user-images.githubusercontent.com/107971405/225290179-ade73b28-9264-42c5-b1db-a8a2ba8d1d1c.png">
+
+账单示例如下：
+>
+<img width="456" alt="image" src="https://user-images.githubusercontent.com/107971405/225291420-b7bc852b-f8c6-4fa3-8a9e-29bf7f1e508f.png">
 
 
 ## 账单明细
 
-您可以在 用户中心\>费用中心\>交易账单\>[账单明细](https://accountv2.ucloud.cn/bills/detail)中查看并导出交易账单明细，操作如下：
+您可以在 用户中心\>财务中心\>交易账单\>[账单明细](https://accountv2.ucloud.cn/bills/detail)中查看并导出交易账单明细，操作如下：
 
-![账单明细](/images/detail.png)
+<img width="1173" alt="image" src="https://user-images.githubusercontent.com/107971405/225289715-f5ccaed3-6a40-4fb9-877f-e705e0fabf52.png">
 
 > 支持查询单个资源在某个账期内的全部订单。
 
