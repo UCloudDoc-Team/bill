@@ -23,7 +23,7 @@
 
 ## PDF版账单导出
 
-您可以在财务中心\>交易账单中导出已入账部分的PDF版账单，操作如下： 
+您可以在财务中心\>交易账单中导出已入账部分的PDF版账单【注：仅支持2023年3月及以后的交易账单】，操作如下： 
 <img width="1175" alt="image" src="https://user-images.githubusercontent.com/107971405/225290179-ade73b28-9264-42c5-b1db-a8a2ba8d1d1c.png">
 
 账单示例如下：
