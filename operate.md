@@ -56,7 +56,7 @@
 选择汇总账单的详情，查看账单明细列表页面。
 
 - 在账单明细列表中，可以查看资源ID、标签、产品类型、项目名称、用户、金额、状态等信息。
-  <img width="1460" height="764" alt="image" src="https://github.com/user-attachments/assets/3b368397-9e6d-4f4b-8da7-25f762877944" />
+ ![](images/d3e3298edb578d879eae3bb4a9285854_compress.jpg)
  【说明】
 
  1. **自定义列表**：
@@ -73,7 +73,7 @@
 ### 账单导出
 
 用户可以导出csv格式文件，账单一次只能导出一个月。
-<img width="1460" height="764" alt="image" src="https://github.com/user-attachments/assets/60c1ebe3-ce77-4066-bd0d-38a75d54bd14" />
+![](images/d3e3298edb578d879eae3bb4a9285854_compress.jpg)
  【说明】
 
 1. **账单下载名称命名规则**：
